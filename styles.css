@@ -1,0 +1,28 @@
+h1 {
+    color: burlywood;
+}
+
+
+p {
+    color: burlywood;
+}
+
+body {
+    background-color: black
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-size: 1.2rem
+}
+
+h1 {
+    font-size: 1.7rem
+}
